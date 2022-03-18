@@ -1,0 +1,11 @@
+{
+  "insurance_list": [{
+    "id": 1,
+    "typesOf": "险种1"
+  }, {
+    "id": 2,
+    "typesOf": "险种2"
+  }],
+  "randList": ["开场白", "保司", "缴费计划", "太保蓝本", "lifeBan", "lllllll"],
+  "requestConf": ""
+}

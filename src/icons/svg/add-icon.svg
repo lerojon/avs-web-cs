@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>加号</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="模板管理-模板列表" transform="translate(-770.000000, -308.000000)" fill-rule="nonzero">
+            <g id="编组-4" transform="translate(260.000000, 220.000000)">
+                <g id="编组-2" transform="translate(438.000000, 72.000000)">
+                    <g id="加号" transform="translate(72.000000, 16.000000)">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M8,13.917 C7.58578644,13.917 7.25,13.5812136 7.25,13.167 L7.25,2.833 C7.25,2.41878644 7.58578644,2.083 8,2.083 C8.41421356,2.083 8.75,2.41878644 8.75,2.833 L8.75,13.167 C8.75,13.5812136 8.41421356,13.917 8,13.917 Z" id="路径" fill="#AFAFAF"></path>
+                        <path d="M13.167,8.75 L2.833,8.75 C2.41878644,8.75 2.083,8.41421356 2.083,8 C2.083,7.58578644 2.41878644,7.25 2.833,7.25 L13.167,7.25 C13.5812136,7.25 13.917,7.58578644 13.917,8 C13.917,8.41421356 13.5812136,8.75 13.167,8.75 Z" id="路径" fill="#AFAFAF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
