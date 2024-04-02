@@ -71,7 +71,7 @@ export const constantRouterMap = [
         component: () => import('@/views/home/child-page/item-edit'),
         meta: {title: '模块配置'},
         hidden:true
-      },
+    },
       {
         path: '/avs/videoPreview',
         name: 'videoPreview',

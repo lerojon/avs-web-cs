@@ -150,10 +150,10 @@ export default {
     }
   },
   mounted() {
-    this.getTableList(this.pageSize, this.currentPage)
     this.queryDir()
   },
   created() {
+    this.getTableList(this.pageSize, this.currentPage)
     console.log('indexpage')
   },
   watch: {
